@@ -24,8 +24,8 @@ Plot the Cost function using Gradient Descent and generate the required graph
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by:  RAJA GOPAL V
-RegisterNumber: 212223240134 
+Developed by: SURIYA RAJ K
+RegisterNumber: 212223040216
 */
 ```
 ```
